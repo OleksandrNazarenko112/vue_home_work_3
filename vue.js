@@ -1,5 +1,5 @@
 const About = {
-  template:`<div><section class="brands">
+  template:`<div><section class="about">
     <h2>Роуты</h2>
   </section></div>`
 }
