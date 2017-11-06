@@ -1,0 +1,14 @@
+.router-view {
+  position:absolute;
+  top:10%;
+  bottom:10%;
+  left:10%;
+  right:10%;
+  border: dashed 1px gray;
+  padding:10px;
+  font-weight:bold;
+}
+body { font-family: Arial; }
+body:after {
+  content: ""
+}
